@@ -1,0 +1,12 @@
+{
+    "name": "goda/mvc",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Goda\\Mvc\\Src\\": "src/",
+            "Goda\\Mvc\\App\\": "app/"
+
+        }
+    },
+    "require": {}
+}
